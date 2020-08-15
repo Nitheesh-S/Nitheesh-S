@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an simple file renaming desktop app with electronjs and react.
+- 🌱 I’m currently learning React, NodeJS and some basic authentication services.
 <!--
 **Nitheesh-S/Nitheesh-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
