@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a simple file renaming desktop app with electronjs and react.
-- 🌱 I’m currently learning NodeJS and React.
+- 🔭 I’m currently working on a django and golang.
+- 🌱 I’m currently learning apache airflow.
 
 <!--
 - 👯 NodeJS, basic authentication services
