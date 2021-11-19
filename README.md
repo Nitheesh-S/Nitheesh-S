@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a django and golang.
+- 🎓 Have experience in Django, aws lambda in golang, React
 - 🌱 I’m currently learning apache airflow.
 
 <!--
