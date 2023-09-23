@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on a django, nodejs and react.
 - 🎓 Have experience in python, nodejs, Reactjs and major aws services 
-- 🌱 I’m currently learning apache airflow.
 
 <!--
 - 👯 NodeJS, basic authentication services
